@@ -1,4 +1,0 @@
-<table border="1">
-<tr><th>Nombre</th><th>Escuela</th></tr>
-<tr><td>Juan Pérez</td><td>Primaria Bilingüe</td></tr>
-</table>
